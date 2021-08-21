@@ -6,8 +6,8 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="PHP" height="25" src="https://github.com/cjatoba/cjatoba/images/php.png"></code>
-  <code><img title="Laravel" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
+  <code><img title="PHP" height="25" src="https://www.php.net/images/logos/php-logo.svg"></code>
+  <code><img title="Laravel" height="25" src="https://laravel.com/img/logomark.min.svg"></code>
   <code><img title="Bootstrap" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
   <code><img title="Tailwind CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></code>
   <code><img title="Livewire" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
