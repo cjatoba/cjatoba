@@ -20,6 +20,6 @@
 
 <h2 align="center">Languages & Frameworks & Tools</h2>
 
-<h5 align="center">PHP | Laravel | HTML | Javascript | Typescript | React | CSS3 | Bootstrap | Tailwind CSS | Docker | Git</h5>
+<h5 align="center">| PHP | Laravel | HTML | Javascript | Typescript | React | CSS3 | Bootstrap | Tailwind CSS | Docker | Git |</h5>
 
 <hr>
